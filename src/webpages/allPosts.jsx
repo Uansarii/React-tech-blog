@@ -1,3 +1,5 @@
+//page that displays all the blog posts
+
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Typography } from '@mui/material';

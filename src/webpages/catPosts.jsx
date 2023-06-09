@@ -1,3 +1,5 @@
+
+//page to display all the posts of a particular category
 import React, { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import HorizontalCard from '../Components/horizontalCard';
