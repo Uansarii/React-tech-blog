@@ -1,0 +1,144 @@
+{
+  "writers": [
+    {
+      "id": 1,
+      "name": "William Mandison",
+      "email": "william@xyz.com",
+      "password": "password1",
+      "blogs": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jake Tosh",
+      "email": "tosh@xyz.com",
+      "password": "password2",
+      "blogs": [
+        2
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Siraj Ahmed",
+      "email": "siraj@xyz.com",
+      "password": "password3",
+      "blogs": [
+        3
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Uswa Fatima",
+      "email": "uswa@xyz.com",
+      "password": "password4",
+      "blogs": [
+        4
+      ]
+    },
+    {
+      "id": 5,
+      "name": "John Smith",
+      "email": "john@xyz.com",
+      "password": "password7",
+      "blogs": [
+        7
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Emma Johnson",
+      "email": "emma@xyz.com",
+      "password": "password8",
+      "blogs": [
+        8
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Ali Khan",
+      "email": "ali@xyz.com",
+      "password": "password9",
+      "blogs": [
+        9
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sophia Patel",
+      "email": "sophia@xyz.com",
+      "password": "password10",
+      "blogs": [
+        10
+      ]
+    },
+    {
+      "fname": "Angel",
+      "lname": "Mary",
+      "email": "mary@me.com",
+      "password": "maryme",
+      "confirmpass": "maryme",
+      "id": 9
+    }
+  ],
+  "posts": [
+  
+    {
+      "id": 1,
+      "title": "Welcome to the World of AI",
+      "body": "Artificial intelligence (AI) has revolutionized various industries by enabling machines to perform tasks that typically require human intelligence. From autonomous vehicles and virtual assistants to image recognition and natural language processing, AI is transforming the way we live and work. With advancements in machine learning algorithms and deep neural networks, AI systems can analyze large datasets, make predictions, and learn from experience. As AI continues to evolve, its potential impact on society and the future of technology is immense.",
+      "likes": 30,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsS35ZmXXa8PX0b9-dS6spnu5QfCu7WEBXOQ&usqp=CAU",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": 2,
+      "title": "The Rise of Machine Learning",
+      "body": "Machine learning is a subset of artificial intelligence that focuses on enabling systems to learn and improve from experience without being explicitly programmed. It involves the development of algorithms and models that can analyze and interpret complex data to make predictions or take actions. With the availability of large datasets and increased computing power, machine learning has seen significant advancements in recent years. It is now widely used in various applications such as image recognition, natural language processing, and recommendation systems.",
+      "likes": 20,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TjhFLVcbb3uaOkx2nJMunlu8QsBXAzfrEdZ2g68V7TiZbl_K4NqvMS_nLsY4-huoqrY&usqp=CAU",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": 3,
+      "title": "Transforming Healthcare with Digital Technologies",
+      "body": "Digital health encompasses the use of technology to improve healthcare delivery, patient care, and overall well-being. It includes various digital tools and solutions such as electronic health records, telemedicine, wearable devices, and health monitoring apps. These technologies enable remote patient monitoring, personalized medicine, and efficient healthcare management. Digital health has the potential to revolutionize healthcare by improving access to medical services, enhancing diagnostic capabilities, and empowering individuals to take control of their health.",
+      "likes": 15,
+      "imgUrl": "https://img.freepik.com/free-photo/medical-banner-with-doctor-working-laptop_23-2149611211.jpg?w=996&t=st=1684731336~exp=1684731936~hmac=69daf55e441e724e4b9f2e644d89bd89531ba3d0a7f9ee50e64adc0ce4089591",
+      "category": "Digital Health"
+    },
+    {
+      "id": 4,
+      "title": "The Future of Ecommerce",
+      "body": "Ecommerce has transformed the way businesses operate and consumers shop. With the rise of online marketplaces, mobile shopping, and digital payment systems, ecommerce has experienced significant growth and innovation. The future of ecommerce is shaped by emerging technologies such as artificial intelligence, augmented reality, and voice commerce. These advancements are enhancing personalized shopping experiences, streamlining logistics and supply chain management, and enabling seamless cross-border transactions. As consumer preferences continue to evolve, ecommerce will continue to adapt and redefine the retail landscape.",
+      "likes": 25,
+      "imgUrl": "http://wallpaperswide.com/download/finance_plan-wallpaper-800x480.jpg",
+      "category": "Ecommerce"
+    },
+    {
+      "id": 5,
+      "title": "Effective Troubleshooting Tips for Common Tech Issues",
+      "body": "Dealing with technical issues can be frustrating, but with some troubleshooting tips, you can resolve common problems quickly. For software-related issues, try restarting your device, updating the software, or reinstalling the application. For hardware issues, ensure all cables are securely connected, check for driver updates, or consider replacing faulty components. Additionally, seeking help from online forums or contacting technical support can provide valuable guidance. By following these tech support tips, you can save time and get your devices back up and running smoothly.",
+      "likes": 18,
+      "imgUrl": "http://wallpaperswide.com/download/cool_virtual_reality_skateboarding_background-wallpaper-800x480.jpg",
+      "category": "Tech Support Tips"
+    },
+    {
+      "id": 6,
+      "title": "Welcome to the new blog",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York.",
+      "likes": 30,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAb1dkftvOeGMhGMjcc0NPq72fcXhkQWpSw&usqp=CAU",
+      "category": "Artificial Intelligence"
+    },
+    {
+      "id": 7,
+      "title": "This is the end of the world",
+      "body": "Book description: In June, 1954, eighteen-year-old Emmett Watson is driven home to Nebraska by the warden of the juvenile work farm where he has just served fifteen months for involuntary manslaughter. His mother long gone, his father recently deceased, and the family farm foreclosed upon by the bank, Emmett's intention is to pick up his eight-year-old brother, Billy, and head to California where they can start their lives anew. But when the warden drives away, Emmett discovers that two friends from the work farm have hidden themselves in the trunk of the warden's car. Together, they have hatched an altogether different plan for Emmett's future, one that will take them all on a fateful journey in the opposite direction—to the City of New York.",
+      "likes": 15,
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzMqsYN4T6YHK1Dx0gM3R3P_CP_-oS7Uodg&usqp=CAU",
+      "featured": true,
+      "category": "Digital Health"
+    }
+  ]
+}

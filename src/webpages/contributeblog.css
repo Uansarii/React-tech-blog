@@ -1,0 +1,119 @@
+.write {
+    padding-top: 50px;
+    background-color: #36454F;
+  }
+  
+  .writeImg {
+    margin-left: 150px;
+    width: 70vw;
+    height: 250px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .writeForm {
+    position: relative;
+    background-color: #36454F;
+    border-color: white;
+  }
+  
+  .writeFormGroup {
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+    background-color: #36454F;
+    border-color: white;
+
+  }
+  
+  .writeIcon {
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+    border: 1px solid;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-color: white;
+  }
+  
+  .writeInput {
+    font-size: 30px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+    background-color: #36454F;
+    color: #bcb8b8;
+    border-color: white;
+  }
+  
+  .writeInput::placeholder {
+    color: white;
+    font-weight: 400;
+  }
+  
+  .writeInput:focus {
+    outline-style: none;
+  }
+  
+  .writeText {
+    width: 70vw;
+    height: 100vh;
+    font-family: inherit;
+    font-size: 20px;
+    border-color: white;
+  }
+  
+  .writeSubmit {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    color: white;
+    background-color: #03a9f4;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-color: white;
+  }
+
+  .writeImageURL{
+    font-size: 20px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+    background-color: #36454F;
+    color: #bcb8b8;
+    border-color: white;
+  }
+
+  .writeCategory{
+    font-size: 20px;
+    border: none;
+    padding: 20px;
+    width: 70vw;
+    background-color: #36454F;
+    color: #bcb8b8;
+    border-color: white;
+  }
+  
+  .writeCategory::placeholder {
+    color: white;
+    font-weight: 200px;
+  }
+  .writeCategory:focus {
+    outline-style: none;
+  }
+  .writeImageURL::placeholder {
+    color: white;
+    font-weight: 200px;
+  }
+  .writeImageURL:focus {
+    outline-style: none;
+  }
